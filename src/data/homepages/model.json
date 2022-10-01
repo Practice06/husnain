@@ -1,0 +1,214 @@
+{
+    "title": "model-home",
+    "content": [
+        {
+            "id": "model-home-hero",
+            "section": "hero-section",
+            "headings": [
+                {
+                    "content": "Husnain Rajpoot"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "Model & Content Creator"
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/bg/bg-image-12.jpg",
+                    "alt": "Husnain Rajpoot"
+                }
+            ]
+        },
+        {
+            "id": "model-home-about",
+            "section": "about-section",
+            "section_title": {
+                "title": "About Me",
+                "subtitle": "Visit my prolife"
+            },
+            "texts": [
+                {
+                    "content": "SELECTIVES ONLY!🙃 Be Classy👅. From, Lahore🫦."
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/about/about-5.png"
+                }
+            ]
+        },
+        {
+            "id": "model-home-parallax",
+            "section": "parallax-section",
+            "images": [
+                {
+                    "src": "../images/bg/bg-image-8.png"
+                }
+            ]
+        },
+        {
+            "id": "model-home-portfolio",
+            "section": "portfolio-section",
+            "section_title": {
+                "title": "My Profiles",
+                "subtitle": "Visit my profiles and keep your feedback"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Instagram",
+                    "category": "husnain4887",
+                    "texts": [
+                        {
+                            "content": "Offical Instagram Account with more than 113k fans and followers."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-10.jpg"
+                        }
+                    ],
+                    "path": "https://instagram.com/husnain4887",
+                    "likeCount": 113000
+                },
+                {
+                    "id": 2,
+                    "title": "Tiktok",
+                    "category": "husnainrajpoot13",
+                    "texts": [
+                        {
+                            "content": "Tiktok account with more than 5M followers."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-11.jpg"
+                        }
+                    ],
+                    "path": "https://www.tiktok.com/@husnainrajpoot13",
+                    "likeCount": 5000000
+                },
+                {
+                    "id": 3,
+                    "title": "alihusnain20",
+                    "category": "Snapchat",
+                    "texts": [
+                        {
+                            "content": "snapchat account for scanping and chats."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-12.jpg"
+                        }
+                    ],
+                    "path": "https://www.snapchat.com/add/alihusnain20",
+                    "likeCount": 10000
+                },
+                {
+                    "id": 3,
+                    "title": "Husnain Rajpoot (Nain)",
+                    "category": "Facebook",
+                    "texts": [
+                        {
+                            "content": "Facebook account for stories and chats."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-13.jpg"
+                        }
+                    ],
+                    "path": "https://www.facebook.com/profile.php?id=100032294040996",
+                    "likeCount": 4000
+                }
+                
+            
+            ]
+        },
+        {
+            "id": "model-home-client",
+            "section": "client-section",
+            "section_title": {
+                "title": "Award I Have Achieve",
+                "subtitle": "Visit my Award"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client2.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client4.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client1.png"
+                        }
+                    ]
+                }
+               
+            ]
+        },
+        {
+            "id": "model-home-contact",
+            "section": "contact-section",
+            "section_title": {
+                "title": "Contact With Me",
+                "subtitle": "Contact"
+            },
+            "images": [
+                {
+                    "src": "../images/contact/contact1.jpg"
+                }
+            ],
+            "headings": [
+                {
+                    "content": "Husnain Rajpoot"
+                },
+                {
+                    "content": "Model And Content Creator"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "DM for Collabs and Promotions."
+                }
+            ]
+        }
+    ]
+}
